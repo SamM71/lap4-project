@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:rantirules/LAP4-Yao45.git
+[submodule "server"]
+	path = server
+	url = git@github.com:SamM71/lap4-project-backend.git
